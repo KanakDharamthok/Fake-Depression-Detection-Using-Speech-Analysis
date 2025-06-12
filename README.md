@@ -97,7 +97,7 @@ Response is saved and played from response.mp3.
 
 ## 🌐 GitHub Pages Deployment
 Project is also accessible via GitHub Pages:
-📍 https://KanakDharamthok.github.io/ManoVani
+📍 [ManoVani](https://github.com/KanakDharamthok/Fake-Depression-Detection-Using-Speech-Analysis)
 
 💡 Future Enhancements
 - ✅ Multilingual support (Hindi, Marathi)
@@ -116,13 +116,13 @@ This project is licensed under the MIT License.
 ⚠️ Disclaimer: This is a research-based assistant and not a substitute for professional mental healthcare.
 
 🙋‍♀️ Author
-✨ Kanak Dharamthok
-🚀 Third-Year CSE (AIML) Student | Passionate about building real-world solutions through AI & ML
-🧠 Mental Health Advocate | Contributed to Manovani: an AI-powered system for detecting depression using voice and text analysis
-🔬 AI/ML Researcher in Progress | Exploring NLP, Emotion Recognition, and Responsible AI
-💬 Loves turning data into meaningful insights and bringing empathy into tech
-🌱 Learning: ML applications, Research Paper Writing
-📚 Always open to collaborations, ideas, and learning new things
+- ✨ Kanak Dharamthok
+- 🚀 Third-Year CSE (AIML) Student | Passionate about building real-world solutions through AI & ML
+- 🧠 Mental Health Advocate | Contributed to Manovani: an AI-powered system for detecting depression using voice and text analysis
+- 🔬 AI/ML Researcher in Progress | Exploring NLP, Emotion Recognition, and Responsible AI
+- 💬 Loves turning data into meaningful insights and bringing empathy into tech
+- 🌱 Learning: ML applications, Research Paper Writing
+- 📚 Always open to collaborations, ideas, and learning new things
 
 📍 GHRCE, India
 
