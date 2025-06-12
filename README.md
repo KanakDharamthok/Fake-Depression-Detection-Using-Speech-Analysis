@@ -97,7 +97,7 @@ Response is saved and played from response.mp3.
 
 ## 🌐 GitHub Pages Deployment
 Project is also accessible via GitHub Pages:
-📍 https://NandiniJaiswal05.github.io/ManoVani
+📍 https://KanakDharamthok.github.io/ManoVani
 
 💡 Future Enhancements
 - ✅ Multilingual support (Hindi, Marathi)
@@ -116,10 +116,15 @@ This project is licensed under the MIT License.
 ⚠️ Disclaimer: This is a research-based assistant and not a substitute for professional mental healthcare.
 
 🙋‍♀️ Author
-Nandini Jaiswal
-AI/ML Developer | Mental Health Enthusiast
+✨ Kanak Dharamthok
+🚀 Third-Year CSE (AIML) Student | Passionate about building real-world solutions through AI & ML
+🧠 Mental Health Advocate | Contributed to Manovani: an AI-powered system for detecting depression using voice and text analysis
+🔬 AI/ML Researcher in Progress | Exploring NLP, Emotion Recognition, and Responsible AI
+💬 Loves turning data into meaningful insights and bringing empathy into tech
+🌱 Learning: ML applications, Research Paper Writing
+📚 Always open to collaborations, ideas, and learning new things
+
 📍 GHRCE, India
-🔗 LinkedIn
 
 🤝 Contributions
 Pull requests, feature ideas, and bug reports are welcome!
@@ -128,6 +133,6 @@ Pull requests, feature ideas, and bug reports are welcome!
 # Fork → Code → Pull Request ✔️
 ```
 📬 Contact
-📧 nandinijaiswal05@example.com
-📦 GitHub: [NandiniJaiswal05](https://github.com/NandiniJaiswal05)
-
+📧 ms.kanak.dharamthok@gmail.com
+📦 GitHub: [KanakDharamthok](https://github.com/KanakDharamthok)
+🔗 Linkedin: [Kanak Dharamthok](https://www.linkedin.com/in/kanak-dharamthok-8b6b8928b/)
